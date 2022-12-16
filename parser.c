@@ -44,7 +44,7 @@ char *dup_chars(char *pathstr, int start, int stop)
 
 /**
  * find_path - finds this cmd in the PATH string
- * @info: the info struct
+ * @info: the info struct.
  * @pathstr: the PATH string
  * @cmd: the cmd to find
  *
